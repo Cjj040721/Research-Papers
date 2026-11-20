@@ -30,6 +30,7 @@ Cao Junjia is the **sole author** of the paper and is responsible for the model 
 ## Paper and Code
 
 - **Official paper:** [DOI link](https://doi.org/10.1109/ISPCEM64498.2024.00180)
-- **Experiment archive:** Source code and logs have been recovered locally. They are not publicly released while upstream licensing, model-structure consistency, and reproducibility issues are reviewed.
-- **Upstream attribution:** The recovered experiment tree extends [BeiCunNan/sentiment_analysis_Imdb](https://github.com/BeiCunNan/sentiment_analysis_Imdb); it is not presented as a from-scratch implementation.
+- **2026 implementation:** [RCBT-Movie-Sentiment](https://github.com/Cjj040721/RCBT-Movie-Sentiment) — a new sequence-preserving architecture and training workflow, verified with forward/backward checks and a tiny IMDB run. A full `roberta-base` benchmark has not been claimed.
+- **Historical experiment archive:** Source code and logs have been recovered locally but are not redistributed because of upstream licensing and reproducibility issues.
+- **Upstream attribution:** The recovered historical tree extends [BeiCunNan/sentiment_analysis_Imdb](https://github.com/BeiCunNan/sentiment_analysis_Imdb); the linked 2026 repository is independently structured and does not include that tree.
 - **PDF in this repository:** Not included. The IEEE Xplore download carries usage restrictions, so this page links to the official record rather than republishing that file.

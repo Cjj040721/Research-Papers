@@ -21,7 +21,9 @@ The manuscript is not redistributed here. Official code and dataset links point 
 
 The IEEE Xplore download is not redistributed here. Use the official DOI: https://doi.org/10.1109/ISPCEM64498.2024.00180
 
-The recovered local experiment tree is based on [BeiCunNan/sentiment_analysis_Imdb](https://github.com/BeiCunNan/sentiment_analysis_Imdb), with additional model variants, metrics, plots, and experiment logs. The upstream repository declared no licence when reviewed on 20 November 2026. The derived source tree, its CSV dataset, and generated figures are therefore not redistributed here while permission and release options remain under review.
+The recovered local experiment tree is based on [BeiCunNan/sentiment_analysis_Imdb](https://github.com/BeiCunNan/sentiment_analysis_Imdb), with additional model variants, metrics, plots, and experiment logs. The upstream repository declared no licence when reviewed on 20 November 2026. The derived source tree, its CSV dataset, and generated figures are therefore not redistributed here.
+
+A separate [2026 RCBT implementation](https://github.com/Cjj040721/RCBT-Movie-Sentiment) is available under MIT. It does not include the historical derived tree and does not claim a full benchmark reproduction.
 
 ## Modelling Reports
 
@@ -33,3 +35,5 @@ The following team-authored reports are included with permission from their resp
 Junjia Cao was responsible for all code and mathematical modelling work in both projects. This contribution statement does not imply sole authorship of every part of either manuscript.
 
 Permission to publish the reports in this repository does not place them under the root MIT License or grant a separate open-content licence. Copyright remains with the respective authors. The analysis summaries are original repository documentation and do not replace the source reports.
+
+Separate 2026 implementations are available under MIT in [Vegetable-Pricing-Replenishment](https://github.com/Cjj040721/Vegetable-Pricing-Replenishment) and [Drought-Plant-Species-Modelling](https://github.com/Cjj040721/Drought-Plant-Species-Modelling). They are new works, not recovered historical source packages.

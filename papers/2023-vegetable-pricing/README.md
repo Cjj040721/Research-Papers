@@ -30,4 +30,5 @@ Junjia Cao was responsible for **all code and mathematical modelling work** in t
 ## Report and Code
 
 - **Report:** [PDF](paper.pdf), included with permission from the team.
-- **Code:** Not archived. The absence of a recovered source package does not change the confirmed contribution to the original modelling and implementation work.
+- **2026 implementation:** [Vegetable-Pricing-Replenishment](https://github.com/Cjj040721/Vegetable-Pricing-Replenishment) — a new leakage-aware forecasting and MILP optimisation project with a verified synthetic demo.
+- **Historical source package:** Not archived. The new implementation does not claim to reproduce the report's numerical results.

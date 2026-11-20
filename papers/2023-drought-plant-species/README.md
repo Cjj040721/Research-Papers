@@ -26,4 +26,5 @@ Junjia Cao was responsible for **all code and mathematical modelling work** in T
 ## Report and Code
 
 - **Report:** [PDF](paper.pdf), included with permission from the team.
-- **Code:** Not archived. The absence of a recovered source package does not change the confirmed contribution to the original modelling and implementation work.
+- **2026 implementation:** [Drought-Plant-Species-Modelling](https://github.com/Cjj040721/Drought-Plant-Species-Modelling) — a new Open-Meteo-driven community simulator with matched controls and Monte Carlo analysis.
+- **Historical source package:** Not archived. The new simulator does not reproduce or endorse every conclusion in the report.
