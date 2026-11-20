@@ -9,7 +9,7 @@ doi = "10.1109/icc52391.2025.11161477"
 url = "https://github.com/Cjj040721/Research-Papers/tree/main/papers/2025-od-gcresnet-kitchen-har"
 code = "https://github.com/Canberra1111/Kitchen-Micro-Doppler-HAR-with-OD-GCResNet"
 document = ""
-contribution = "Co-first author"
+contribution = "Co-first author; model and code implementation, data and experiments, paper writing and revision, coordination and presentation"
 themes = ["radar sensing", "deep learning", "human activity recognition"]
 
 [[papers]]

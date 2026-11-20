@@ -26,11 +26,12 @@ These are results reported by the paper and project documentation, not new evalu
 
 ## Author Contribution
 
-The original paper states that **Yinan Pei, Shaohua Hu, and Junjia Cao contributed equally**. Junjia Cao's detailed implementation role should be documented separately rather than inferred as sole ownership of the model or dataset.
+The original paper states that **Yinan Pei, Shaohua Hu, and Junjia Cao contributed equally**. Junjia Cao confirmed contributions to model and code implementation, data processing and experiments, paper writing and revision, and project coordination and presentation. These are contributions within a co-first-author collaboration, not a claim of sole ownership of the model or dataset.
 
 ## Paper, Code, and Evidence
 
 - **Official paper:** [DOI link](https://doi.org/10.1109/icc52391.2025.11161477)
 - **Code and dataset:** [Canberra1111/Kitchen-Micro-Doppler-HAR-with-OD-GCResNet](https://github.com/Canberra1111/Kitchen-Micro-Doppler-HAR-with-OD-GCResNet)
 - **PDF in this repository:** Not included.
+- **Local implementation archive:** Model implementation and training/evaluation code are preserved locally. Two H5 checkpoints, approximately 109 MB each, are not uploaded because they exceed GitHub's single-file limit. Approximately 108 GB of datasets is also excluded; use the official project data link instead.
 - **Evidence excluded:** Locally generated ablation plots that used `simulate_other_model_acc/loss` rather than actual training logs. Those plots are not treated as valid experimental evidence.
