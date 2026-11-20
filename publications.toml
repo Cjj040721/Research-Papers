@@ -1,0 +1,70 @@
+[[papers]]
+id = "2025-od-gcresnet-kitchen-har"
+title = "OD-GCResNet: A Deep Learning Model for Kitchen Activity Recognition Using Micro-Doppler Signatures"
+authors = ["Yinan Pei", "Shaohua Hu", "Junjia Cao", "Mingshu Tan", "Zhuyi Li", "Fei Luo", "Anna Li"]
+year = 2025
+type = "conference"
+venue = "IEEE International Conference on Communications (ICC)"
+doi = "10.1109/icc52391.2025.11161477"
+url = "https://github.com/Cjj040721/Research-Papers/tree/main/papers/2025-od-gcresnet-kitchen-har"
+code = "https://github.com/Canberra1111/Kitchen-Micro-Doppler-HAR-with-OD-GCResNet"
+document = ""
+contribution = "Co-first author"
+themes = ["radar sensing", "deep learning", "human activity recognition"]
+
+[[papers]]
+id = "2024-ar3-insurance-risk"
+title = "Research on Insurance Industry Based on AR3 Multi Risk Model"
+authors = ["Junjia Cao", "Zhuodong Liu", "Xi Lei"]
+year = 2024
+type = "journal"
+venue = "Transactions on Economics, Business and Management Research, 9(1), 342–351"
+doi = "10.62051/e60z8783"
+url = "https://github.com/Cjj040721/Research-Papers/tree/main/papers/2024-ar3-insurance-risk"
+code = ""
+document = "papers/2024-ar3-insurance-risk/paper.pdf"
+contribution = "Co-first author"
+themes = ["insurance", "E-AHP", "ARIMA", "risk modelling"]
+
+[[papers]]
+id = "2024-rcbt-movie-sentiment"
+title = "An improved RCBT model and its application to sentiment analysis of movie comments"
+authors = ["Junjia Cao"]
+year = 2024
+type = "conference"
+venue = "International Signal Processing, Communications and Engineering Management Conference (ISPCEM)"
+doi = "10.1109/ISPCEM64498.2024.00180"
+url = "https://github.com/Cjj040721/Research-Papers/tree/main/papers/2024-rcbt-movie-sentiment"
+code = ""
+code_status = "Experiment source and logs recovered locally; public release pending licensing and reproducibility review"
+document = ""
+contribution = "Sole author"
+themes = ["natural language processing", "sentiment analysis", "RoBERTa", "CNN", "BiLSTM", "Transformer"]
+
+[[papers]]
+id = "2023-vegetable-pricing"
+title = "Multivariate forecasting and optimisation for vegetable pricing and replenishment"
+authors = ["Project team including Junjia Cao"]
+year = 2023
+type = "modelling report"
+venue = "National Undergraduate Mathematical Modelling Competition"
+doi = ""
+url = "https://github.com/Cjj040721/Research-Papers/tree/main/papers/2023-vegetable-pricing"
+code = ""
+document = "papers/2023-vegetable-pricing/paper.pdf"
+contribution = "Team member; responsible for all code and mathematical modelling"
+themes = ["pricing", "replenishment", "ARIMA", "simulated annealing", "genetic algorithms"]
+
+[[papers]]
+id = "2023-drought-plant-species"
+title = "Models to Mitigate the Effects of Drought on Plant Species"
+authors = ["Team 2302264, including Junjia Cao"]
+year = 2023
+type = "modelling report"
+venue = "MCM/ICM"
+doi = ""
+url = "https://github.com/Cjj040721/Research-Papers/tree/main/papers/2023-drought-plant-species"
+code = ""
+document = "papers/2023-drought-plant-species/paper.pdf"
+contribution = "Team member; responsible for all code and mathematical modelling"
+themes = ["drought", "Lotka–Volterra", "genetic algorithms", "Logistic models"]
